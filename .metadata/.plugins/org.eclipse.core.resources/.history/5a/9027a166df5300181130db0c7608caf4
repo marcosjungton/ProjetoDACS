@@ -1,0 +1,5 @@
+package br.univille.ProjDACS2018.ProjDACS2018.controller;
+
+public class HomeController {
+
+}
